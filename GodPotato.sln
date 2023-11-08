@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBD}") = "Seatbelt", "Seatbelt\Seatbelt.csproj", "{AEC32155-D589-4150-8FE7-2900DF4554A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodPotato", "GodPotato.csproj", "{2AE886C3-3272-40BE-8D3C-EBAEDE9E61E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AEC32155-D589-4150-8FE7-2900DF4554A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AEC32155-D589-4150-8FE7-2900DF4554A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AEC32155-D589-4150-8FE7-2900DF4554A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AEC32155-D589-4150-8FE7-2900DF4554A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE886C3-3272-40BE-8D3C-EBAEDE9E61E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE886C3-3272-40BE-8D3C-EBAEDE9E61E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE886C3-3272-40BE-8D3C-EBAEDE9E61E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE886C3-3272-40BE-8D3C-EBAEDE9E61E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {582494D1-B9F0-40F9-B7B3-4483685E6732}
+		SolutionGuid = {8E98D84D-38B5-43C1-BC97-AAC88CCC8B84}
 	EndGlobalSection
 EndGlobal
